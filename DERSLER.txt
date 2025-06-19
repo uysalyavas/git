@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 master branchinde yapılan işlem
+=======
+
+
+
+uysal branchinde yapılan işlem
+>>>>>>> uysal
